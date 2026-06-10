@@ -36,7 +36,7 @@ As partes resolvem firmar o presente `CONTRATO DE PRESTACAO DE SERVICOS`, median
 
 ## 4. Vigencia
 
-4.1. O presente contrato entra em vigor em `02/01/2025` e vigorara por prazo indeterminado, podendo ser rescindido por qualquer das partes mediante notificacao escrita com antecedencia minima de `30` dias.
+4.1. O presente contrato entra em vigor em `02/01/2026` e vigorara por prazo indeterminado, podendo ser rescindido por qualquer das partes mediante notificacao escrita com antecedencia minima de `30` dias.
 
 ## 5. Forma de execucao
 
@@ -60,7 +60,7 @@ As partes resolvem firmar o presente `CONTRATO DE PRESTACAO DE SERVICOS`, median
 
 E, por estarem assim justas e contratadas, firmam o presente instrumento em duas vias de igual teor e forma.
 
-Natal/RN, `02` de `janeiro` de `2025`.
+Natal/RN, `02` de `janeiro` de `2026`.
 
 **CONTRATANTE**
 

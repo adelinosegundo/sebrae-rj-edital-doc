@@ -22,6 +22,7 @@ Esta pasta consolida os documentos minimos de comprovacao da `equipe` e da `qual
 - `05-designer-de-jogos/`
 - `06-artista-3d/`
 - `07-testador-de-jogos-qa/`
+- `08-gestor-pedagogico/`
 
 ### 03 - Servico
 - `01-estruturacao-de-plataforma-gamificada/`: documentacao minima compartilhavel do `Evnttz`.

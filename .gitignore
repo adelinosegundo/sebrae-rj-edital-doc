@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Temporary and editor files
+*.swp
+*.swo
+*~
+
+# Generated PDFs can be versioned intentionally.
+# Keep source office/temp artifacts out of repo.
+*.tmp
+*.temp
+*.bak
