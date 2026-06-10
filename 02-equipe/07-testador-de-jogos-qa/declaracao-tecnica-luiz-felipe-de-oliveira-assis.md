@@ -25,6 +25,17 @@ As evidencias objetivas de experiencia deste profissional podem ser suportadas p
 - materiais tecnicos de validacao e acompanhamento de bugs;
 - documentos complementares de execucao, quando aplicavel.
 
+### Lista breve de jogos e projetos de referencia
+
+- `Exploradores de Avantasia` - testes funcionais, validacao em computador e mobile e acompanhamento de estabilidade.
+- `Jogo Cultural - Cultura Potiguara` - validacao de fluxo, desempenho e estabilidade em sessoes mobile e desktop.
+- `Atividades Gamificadas de Avantasia` - validacao de interacoes, feedbacks e desempenho em atividades modulares.
+- `Experiencia VR Avantasia` - validacao de desempenho e estabilidade em experiencia imersiva.
+
+### Relacao com o portfolio da Game Mind
+
+O portfolio textual da `Game Mind` descreve metodologias de testes manuais, testes funcionais, validacao em dispositivos fisicos, monitoramento com `Unity Profiler` e metricas consolidadas de FPS, carregamento e sessoes livres de falhas em projetos da empresa.
+
 Declaramos que as informacoes acima sao verdadeiras.
 
 Natal/RN, `10` de `junho` de `2026`.

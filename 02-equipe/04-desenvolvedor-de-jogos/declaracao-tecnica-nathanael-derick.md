@@ -25,6 +25,17 @@ As evidencias objetivas de experiencia deste profissional podem ser suportadas p
 - materiais tecnicos dos projetos desenvolvidos;
 - documentos complementares e registros de execucao, quando aplicavel.
 
+### Lista breve de jogos e projetos de referencia
+
+- `Exploradores de Avantasia` - jogo educacional em `Unity`, para computador e mobile.
+- `Jogo Cultural - Cultura Potiguara` - jogo cultural em `Unity`, para computador e mobile.
+- `Atividades Gamificadas de Avantasia` - atividades interativas em `Unity`, para computador e mobile.
+- `Experiencia VR Avantasia` - experiencia em realidade virtual com requisitos de desempenho e interacao imersiva.
+
+### Relacao com o portfolio da Game Mind
+
+Os jogos acima encontram-se descritos no portfolio institucional da `Game Mind`, com evidencia de uso de `Unity`, desenvolvimento multiplataforma, mecanicas interativas, integracao de sistemas e requisitos tecnicos de desempenho.
+
 Declaramos que as informacoes acima sao verdadeiras.
 
 Natal/RN, `10` de `junho` de `2026`.
