@@ -17,21 +17,13 @@ A profissional possui experiencia em:
 - aplicacao de habilidades criativas e tecnicas em ativos voltados a jogos;
 - adaptacao de estilo artistico ao tema e ao publico-alvo de cada projeto.
 
-## 3. Evidencias associadas
-
-As evidencias objetivas de experiencia desta profissional podem ser suportadas por:
-
-- portfolio institucional da `Game Mind`, com evidencia visual dos jogos em que a profissional atuou;
-- diploma e documentos complementares de formacao;
-- materiais tecnicos e visuais dos projetos desenvolvidos.
-
-### Lista breve de jogos e projetos de referencia
+## 3. Lista breve de jogos e projetos de referencia
 
 - `Exploradores de Avantasia` (`2025`) - ativos 3D e ambientacao visual para jogo educacional em `Unity`.
 - `Atividades Gamificadas de Avantasia` (`2025`) - apoio a conteudo visual, interface e apresentacao ludica.
 - `Experiencia VR Avantasia` - ativos e ambientacao visual para experiencia em realidade virtual.
 
-### Relacao com o portfolio da Game Mind
+## 4. Relacao com o portfolio da Game Mind
 
 O portfolio textual e o portfolio institucional em PDF da `Game Mind` apresentam evidencia de producao de jogos educacionais 3D, criacao de personagens e ambientes, animacoes, efeitos visuais e uso de ferramentas como `Blender 3D` e `Unity`, alem de imagens de arte conceitual, animacao e conceito de UX. Tais materiais servem como portfolio visual desta profissional, uma vez que ela atuou nos projetos ali apresentados.
 

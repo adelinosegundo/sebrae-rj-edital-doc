@@ -17,15 +17,7 @@ Adelino Segundo possui experiencia em:
 - integracao de APIs;
 - seguranca do sistema e boas praticas de autenticacao, autorizacao e protecao de dados.
 
-## 3. Cases e evidencias associadas
-
-As evidencias objetivas de experiencia deste profissional encontram-se suportadas pelos seguintes materiais anexos:
-
-- portfolio institucional da TOOTZ;
-- quadro-resumo de aderencia edital x evidencia;
-- documentos tecnicos, memoriais, atestados ou declaracoes complementares, quando aplicavel.
-
-### Lista breve de projetos de referencia
+## 3. Lista breve de projetos de referencia
 
 - `Portal Brasil Junior` (inicio em `2016`, vigente ate a presente data)
 - `Evnttz` (inicio em `2024`, vigente ate a presente data)

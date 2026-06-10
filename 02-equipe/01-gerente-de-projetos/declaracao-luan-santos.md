@@ -17,15 +17,7 @@ Luan Santos possui experiencia em:
 - organizacao de cronograma, backlog, prioridades e acompanhamento de execucao;
 - conducao de projetos complexos de desenvolvimento de jogos ou solucoes digitais.
 
-## 3. Cases e evidencias associadas
-
-As evidencias objetivas de experiencia deste profissional encontram-se suportadas pelos seguintes materiais anexos:
-
-- portfolio institucional da TOOTZ;
-- quadro-resumo de aderencia edital x evidencia;
-- documentos tecnicos, memoriais, atestados ou declaracoes complementares, quando aplicavel.
-
-### Lista breve de projetos de referencia
+## 3. Lista breve de projetos de referencia
 
 - `Game Mind` (inicio em `2021`, vigente ate a presente data)
 - `Migtech` (inicio em `2022`, vigente ate a presente data)

@@ -17,22 +17,14 @@ A profissional possui experiencia em:
 - construcao de narrativas e fluxos de experiencia do usuario;
 - aplicacao de principios de `player-centered design` no desenvolvimento de jogos e plataformas gamificadas.
 
-## 3. Evidencias associadas
-
-As evidencias objetivas de experiencia desta profissional podem ser suportadas por:
-
-- portfolio institucional da `Game Mind`;
-- materiais visuais, wireframes e prototipos dos projetos desenvolvidos;
-- documentos complementares e registros de execucao, quando aplicavel.
-
-### Lista breve de jogos e projetos de referencia
+## 3. Lista breve de jogos e projetos de referencia
 
 - `Exploradores de Avantasia` - narrativa educacional, universo tematico e experiencia visual para publico infantojuvenil.
 - `Jogo Cultural - Cultura Potiguara` - narrativa, identidade visual e adequacao de linguagem ao contexto cultural.
 - `Atividades Gamificadas de Avantasia` - interfaces ludicas, fluxo de interacao e mecanicas de feedback visual imediato.
 - `Gamificacao de Eventos e Plataformas` - estruturacao de jornadas, desafios, recompensas e progressao em experiencias gamificadas.
 
-### Relacao com o portfolio da Game Mind
+## 4. Relacao com o portfolio da Game Mind
 
 Os projetos acima encontram-se descritos no portfolio institucional da `Game Mind`, com evidencia de construcao narrativa, conceitos visuais, experiencias gamificadas, wireframes conceituais e aplicacao de principios de `player-centered design`.
 

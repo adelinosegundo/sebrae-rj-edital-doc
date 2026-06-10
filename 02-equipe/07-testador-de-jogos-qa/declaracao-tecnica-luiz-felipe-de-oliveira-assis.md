@@ -17,22 +17,14 @@ O profissional possui experiencia em:
 - documentacao, classificacao e reporte de bugs com clareza;
 - colaboracao com equipes de desenvolvimento para resolucao de falhas e melhoria da estabilidade.
 
-## 3. Evidencias associadas
-
-As evidencias objetivas de experiencia deste profissional podem ser suportadas por:
-
-- relatorios de testes e registros de QA;
-- materiais tecnicos de validacao e acompanhamento de bugs;
-- documentos complementares de execucao, quando aplicavel.
-
-### Lista breve de jogos e projetos de referencia
+## 3. Lista breve de jogos e projetos de referencia
 
 - `Exploradores de Avantasia` - testes funcionais, validacao em computador e mobile e acompanhamento de estabilidade.
 - `Jogo Cultural - Cultura Potiguara` - validacao de fluxo, desempenho e estabilidade em sessoes mobile e desktop.
 - `Atividades Gamificadas de Avantasia` - validacao de interacoes, feedbacks e desempenho em atividades modulares.
 - `Experiencia VR Avantasia` - validacao de desempenho e estabilidade em experiencia imersiva.
 
-### Relacao com o portfolio da Game Mind
+## 4. Relacao com o portfolio da Game Mind
 
 O portfolio textual da `Game Mind` descreve metodologias de testes manuais, testes funcionais, validacao em dispositivos fisicos, monitoramento com `Unity Profiler` e metricas consolidadas de FPS, carregamento e sessoes livres de falhas em projetos da empresa.
 
