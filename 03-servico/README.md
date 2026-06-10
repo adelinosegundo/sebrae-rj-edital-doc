@@ -32,6 +32,39 @@ seis aplicações independentes que se comunicam por uma API central. A platafor
 cobre toda a jornada do evento: criação e gestão pelo organizador, venda de
 ingressos, participação gamificada do público e gestão de conteúdo.
 
+## Documentos e Informacoes Que Nao Serao Enviados
+
+Os itens abaixo **nao integram este pacote inicial** porque envolvem ativos de
+`propriedade intelectual` da `Game Mind` e informacoes sujeitas a
+`confidencialidade`, `seguranca da informacao` e `sigilo operacional` da
+plataforma `EVNTTZ.`.
+
+### Nao serao enviados neste pacote
+
+- `Codigo-fonte completo` da plataforma, de bibliotecas internas, modulos e servicos.
+- `Repositorios privados`, historico de commits, branches internas e pipelines de deploy.
+- `Credenciais`, chaves, tokens, segredos, certificados e variaveis de ambiente.
+- `Configuracoes internas de servidor`, rede, cloud, banco de dados, filas, cache e hardening.
+- `Endpoints internos`, payloads completos, contratos tecnicos integrais e detalhes de autenticacao.
+- `Logs brutos`, trilhas completas de auditoria, base de dados operacionais e dados sensiveis de usuarios.
+- `Arquivos-fonte de design`, arte, componentes proprietarios, bibliotecas reutilizaveis e frameworks internos.
+- `Documentacao detalhada de seguranca`, resposta a incidentes, politicas internas e mecanismos antiabuso.
+
+### Justificativa
+
+- A `EVNTTZ.` e um ativo proprietario da `Game Mind`, com elementos tecnicos e funcionais protegidos por direitos de propriedade intelectual.
+- O compartilhamento integral desses materiais extrapola a comprovacao minima de qualificacao tecnica exigida nesta etapa documental.
+- A divulgacao ampla de credenciais, configuracoes, logs e detalhes internos de seguranca aumentaria risco operacional, de indisponibilidade e de exposicao indevida de dados.
+- Partes da documentacao tecnica completa podem conter segredos de negocio, know-how acumulado, arquitetura proprietaria e componentes reutilizaveis que nao devem ser publicizados sem controle.
+- Caso haja exigencia formal posterior, eventual acesso a informacoes mais sensiveis devera ocorrer em `ambiente controlado`, com restricao de acesso, finalidade definida e observancia das obrigacoes de confidencialidade aplicaveis.
+
+### O que esta sendo enviado no lugar
+
+- Documentacao funcional de alto nivel.
+- Diagramas conceituais e de arquitetura sem segredos de implementacao.
+- Evidencias resumidas de operacao, desempenho, integracoes, acessibilidade e testes.
+- Declaracao formal de confidencialidade e de limitacao do escopo documental desta etapa.
+
 | Versão do documento | Data | Responsável |
 |---------------------|------|-------------|
 | 1.0 | 2026-06-09 | Equipe EVNTTZ. |
