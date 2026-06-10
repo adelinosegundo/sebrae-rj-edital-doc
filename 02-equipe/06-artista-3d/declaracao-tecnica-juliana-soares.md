@@ -1,33 +1,33 @@
-# Declaracao Tecnica - Juliana Soares dos Anjos Azevedo
+# Declaração Técnica - Juliana Soares dos Anjos Azevedo
 
-**DECLARANTE:** `GAME MIND STUDIOS LTDA.`, inscrita no CNPJ/MF sob o no `38.011.969/0001-30`, com sede na Avenida Senador Salgado Filho, no `3000`, Sala `A 414`, bairro Lagoa Nova, Natal/RN, CEP `59.078-900`, neste ato representada por seus socios administradores `SAMANTA FERREIRA AIRES`, brasileira, solteira, empresaria, portadora da carteira de identidade no `003.123.103 ITEP/RN` e CPF no `017.190.314-52`, e `NATHANAEL DERICK MEDEIROS DO NASCIMENTO`, brasileiro, solteiro, empresario, portador da carteira de identidade no `003.105.819 SSP/RN ITEP/RN` e CPF no `106.433.434-23`, residentes e domiciliados em Natal/RN.
+**DECLARANTE:** `GAME MIND STUDIOS LTDA.`, inscrita no CNPJ/MF sob o nº `38.011.969/0001-30`, com sede na Avenida Senador Salgado Filho, nº `3000`, Sala `A 414`, bairro Lagoa Nova, Natal/RN, CEP `59.078-900`, neste ato representada por seus sócios administradores `SAMANTA FERREIRA AIRES`, brasileira, solteira, empresária, portadora da carteira de identidade nº `003.123.103 ITEP/RN` e CPF nº `017.190.314-52`, e `NATHANAEL DERICK MEDEIROS DO NASCIMENTO`, brasileiro, solteiro, empresário, portador da carteira de identidade nº `003.105.819 SSP/RN ITEP/RN` e CPF nº `106.433.434-23`, residentes e domiciliados em Natal/RN.
 
-Declaramos, para fins de comprovacao tecnica junto ao Sebrae/RJ no ambito do `Lote 3 - Solucoes Educacionais`, que a profissional `Juliana Soares dos Anjos Azevedo` integra a equipe da `GAME MIND STUDIOS LTDA.` na funcao de `Artista 3D`.
+Declaramos, para fins de comprovação técnica junto ao Sebrae/RJ no âmbito do `Lote 3 - Soluções Educacionais`, que a profissional `Juliana Soares dos Anjos Azevedo` integra a equipe da `GAME MIND STUDIOS LTDA.` na função de `Artista 3D`.
 
-## 1. Vinculo ao CNPJ
+## 1. Vínculo ao CNPJ
 
-O vinculo da profissional com a `GAME MIND STUDIOS LTDA.` pode ser comprovado por meio de contrato de prestacao de servicos firmado entre as partes.
+O vínculo da profissional com a `GAME MIND STUDIOS LTDA.` pode ser comprovado por meio de contrato de prestação de serviços firmado entre as partes.
 
-## 2. Experiencia aderente ao edital
+## 2. Experiência aderente ao edital
 
-A profissional possui experiencia em:
+A profissional possui experiência em:
 
-- modelagem 3D, texturizacao e animacao;
+- modelagem 3D, texturização e animação;
 - uso de ferramentas como `Blender`, `Maya` e/ou `3ds Max`, conforme o escopo do projeto;
-- aplicacao de habilidades criativas e tecnicas em ativos voltados a jogos;
-- adaptacao de estilo artistico ao tema e ao publico-alvo de cada projeto.
+- aplicação de habilidades criativas e técnicas em ativos voltados a jogos;
+- adaptação de estilo artístico ao tema e ao público-alvo de cada projeto.
 
-## 3. Lista breve de jogos e projetos de referencia
+## 3. Lista breve de jogos e projetos de referência
 
-- `Exploradores de Avantasia` (`2025`) - ativos 3D e ambientacao visual para jogo educacional em `Unity`.
-- `Atividades Gamificadas de Avantasia` (`2025`) - apoio a conteudo visual, interface e apresentacao ludica.
-- `Experiencia VR Avantasia` - ativos e ambientacao visual para experiencia em realidade virtual.
+- `Exploradores de Avantasia` (`2025`) - ativos 3D e ambientação visual para jogo educacional em `Unity`.
+- `Atividades Gamificadas de Avantasia` (`2025`) - apoio a conteúdo visual, interface e apresentação lúdica.
+- `Experiência VR Avantasia` - ativos e ambientação visual para experiência em realidade virtual.
 
-## 4. Relacao com o portfolio da Game Mind
+## 4. Relação com o portfólio da Game Mind
 
-O portfolio textual e o portfolio institucional em PDF da `Game Mind` apresentam evidencia de producao de jogos educacionais 3D, criacao de personagens e ambientes, animacoes, efeitos visuais e uso de ferramentas como `Blender 3D` e `Unity`, alem de imagens de arte conceitual, animacao e conceito de UX. Tais materiais servem como portfolio visual desta profissional, uma vez que ela atuou nos projetos ali apresentados.
+O portfólio textual e o portfólio institucional em PDF da `Game Mind` apresentam evidência de produção de jogos educacionais 3D, criação de personagens e ambientes, animações, efeitos visuais e uso de ferramentas como `Blender 3D` e `Unity`, além de imagens de arte conceitual, animação e conceito de UX. Tais materiais servem como portfólio visual desta profissional, uma vez que ela atuou nos projetos ali apresentados.
 
-Declaramos que as informacoes acima sao verdadeiras.
+Declaramos que as informações acima são verdadeiras.
 
 Natal/RN, `10` de `junho` de `2026`.
 

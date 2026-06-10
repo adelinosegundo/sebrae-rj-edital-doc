@@ -1,34 +1,34 @@
-# Declaracao Tecnica - Alexandre Ribeiro
+# Declaração Técnica - Alexandre Ribeiro
 
-**DECLARANTE:** `GAME MIND STUDIOS LTDA.`, inscrita no CNPJ/MF sob o no `38.011.969/0001-30`, com sede na Avenida Senador Salgado Filho, no `3000`, Sala `A 414`, bairro Lagoa Nova, Natal/RN, CEP `59.078-900`, neste ato representada por seus socios administradores `SAMANTA FERREIRA AIRES`, brasileira, solteira, empresaria, portadora da carteira de identidade no `003.123.103 ITEP/RN` e CPF no `017.190.314-52`, e `NATHANAEL DERICK MEDEIROS DO NASCIMENTO`, brasileiro, solteiro, empresario, portador da carteira de identidade no `003.105.819 SSP/RN ITEP/RN` e CPF no `106.433.434-23`, residentes e domiciliados em Natal/RN.
+**DECLARANTE:** `GAME MIND STUDIOS LTDA.`, inscrita no CNPJ/MF sob o nº `38.011.969/0001-30`, com sede na Avenida Senador Salgado Filho, nº `3000`, Sala `A 414`, bairro Lagoa Nova, Natal/RN, CEP `59.078-900`, neste ato representada por seus sócios administradores `SAMANTA FERREIRA AIRES`, brasileira, solteira, empresária, portadora da carteira de identidade nº `003.123.103 ITEP/RN` e CPF nº `017.190.314-52`, e `NATHANAEL DERICK MEDEIROS DO NASCIMENTO`, brasileiro, solteiro, empresário, portador da carteira de identidade nº `003.105.819 SSP/RN ITEP/RN` e CPF nº `106.433.434-23`, residentes e domiciliados em Natal/RN.
 
-Declaramos, para fins de apresentacao complementar de equipe junto ao Sebrae/RJ no ambito do `Lote 3 - Solucoes Educacionais`, que o profissional `Alexandre Ribeiro (Ale)` integra a equipe da `GAME MIND STUDIOS LTDA.` como apoio pedagogico complementar aos projetos da empresa.
+Declaramos, para fins de apresentação complementar de equipe junto ao Sebrae/RJ no âmbito do `Lote 3 - Soluções Educacionais`, que o profissional `Alexandre Ribeiro (Ale)` integra a equipe da `GAME MIND STUDIOS LTDA.` como apoio pedagógico complementar aos projetos da empresa.
 
-## 1. Vinculo ao CNPJ
+## 1. Vínculo ao CNPJ
 
-O vinculo do profissional com a `GAME MIND STUDIOS LTDA.` pode ser comprovado por meio do contrato social da empresa, na qualidade de socio.
+O vínculo do profissional com a `GAME MIND STUDIOS LTDA.` pode ser comprovado por meio do contrato social da empresa, na qualidade de sócio.
 
 ## 2. Atividades complementares desenvolvidas
 
-O profissional atua de forma complementar em frentes aderentes a jogos e solucoes educacionais, incluindo:
+O profissional atua de forma complementar em frentes aderentes a jogos e soluções educacionais, incluindo:
 
-- apoio ao alinhamento pedagogico e educacional dos projetos;
-- adequacao de linguagem e conteudo ao publico-alvo;
-- suporte a construcao de jornadas de aprendizagem e experiencias gamificadas;
-- colaboracao multidisciplinar com desenvolvimento, design e conteudo.
+- apoio ao alinhamento pedagógico e educacional dos projetos;
+- adequação de linguagem e conteúdo ao público-alvo;
+- suporte à construção de jornadas de aprendizagem e experiências gamificadas;
+- colaboração multidisciplinar com desenvolvimento, design e conteúdo.
 
-## 3. Lista breve de jogos e projetos de referencia
+## 3. Lista breve de jogos e projetos de referência
 
-- `Exploradores de Avantasia` - experiencia educacional com linguagem adaptada a criancas do 1o e 2o ano do Ensino Fundamental.
+- `Exploradores de Avantasia` - experiência educacional com linguagem adaptada a crianças do 1º e 2º ano do Ensino Fundamental.
 - `Jogo Cultural - Cultura Potiguara` - projeto com forte componente cultural e educacional.
-- `Atividades Gamificadas de Avantasia` - atividades voltadas a alfabetizacao e letramento.
-- `Gamificacao de Eventos e Plataformas` - transformacao de trilhas de aprendizagem e conteudos em jornadas interativas.
+- `Atividades Gamificadas de Avantasia` - atividades voltadas à alfabetização e letramento.
+- `Gamificação de Eventos e Plataformas` - transformação de trilhas de aprendizagem e conteúdos em jornadas interativas.
 
-## 4. Relacao com o portfolio da Game Mind
+## 4. Relação com o portfólio da Game Mind
 
-O portfolio textual da `Game Mind` descreve jogos e atividades com foco educacional, adequacao de linguagem, alfabetizacao, letramento e gamificacao de experiencias de aprendizagem, o que sustenta a atuacao complementar deste profissional.
+O portfólio textual da `Game Mind` descreve jogos e atividades com foco educacional, adequação de linguagem, alfabetização, letramento e gamificação de experiências de aprendizagem, o que sustenta a atuação complementar deste profissional.
 
-Declaramos que as informacoes acima sao verdadeiras.
+Declaramos que as informações acima são verdadeiras.
 
 Natal/RN, `10` de `junho` de `2026`.
 

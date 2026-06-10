@@ -1,34 +1,34 @@
-# Declaracao Tecnica - Luiz Felipe de Oliveira Assis
+# Declaração Técnica - Luiz Felipe de Oliveira Assis
 
-**DECLARANTE:** `GAME MIND STUDIOS LTDA.`, inscrita no CNPJ/MF sob o no `38.011.969/0001-30`, com sede na Avenida Senador Salgado Filho, no `3000`, Sala `A 414`, bairro Lagoa Nova, Natal/RN, CEP `59.078-900`, neste ato representada por seus socios administradores `SAMANTA FERREIRA AIRES`, brasileira, solteira, empresaria, portadora da carteira de identidade no `003.123.103 ITEP/RN` e CPF no `017.190.314-52`, e `NATHANAEL DERICK MEDEIROS DO NASCIMENTO`, brasileiro, solteiro, empresario, portador da carteira de identidade no `003.105.819 SSP/RN ITEP/RN` e CPF no `106.433.434-23`, residentes e domiciliados em Natal/RN.
+**DECLARANTE:** `GAME MIND STUDIOS LTDA.`, inscrita no CNPJ/MF sob o nº `38.011.969/0001-30`, com sede na Avenida Senador Salgado Filho, nº `3000`, Sala `A 414`, bairro Lagoa Nova, Natal/RN, CEP `59.078-900`, neste ato representada por seus sócios administradores `SAMANTA FERREIRA AIRES`, brasileira, solteira, empresária, portadora da carteira de identidade nº `003.123.103 ITEP/RN` e CPF nº `017.190.314-52`, e `NATHANAEL DERICK MEDEIROS DO NASCIMENTO`, brasileiro, solteiro, empresário, portador da carteira de identidade nº `003.105.819 SSP/RN ITEP/RN` e CPF nº `106.433.434-23`, residentes e domiciliados em Natal/RN.
 
-Declaramos, para fins de comprovacao tecnica junto ao Sebrae/RJ no ambito do `Lote 3 - Solucoes Educacionais`, que o profissional `Luiz Felipe de Oliveira Assis` integra a equipe da `GAME MIND STUDIOS LTDA.` na funcao de `Testador de Jogos (QA)`.
+Declaramos, para fins de comprovação técnica junto ao Sebrae/RJ no âmbito do `Lote 3 - Soluções Educacionais`, que o profissional `Luiz Felipe de Oliveira Assis` integra a equipe da `GAME MIND STUDIOS LTDA.` na função de `Testador de Jogos (QA)`.
 
-## 1. Vinculo ao CNPJ
+## 1. Vínculo ao CNPJ
 
-O vinculo do profissional com a `GAME MIND STUDIOS LTDA.` pode ser comprovado por meio de contrato de prestacao de servicos firmado entre as partes.
+O vínculo do profissional com a `GAME MIND STUDIOS LTDA.` pode ser comprovado por meio de contrato de prestação de serviços firmado entre as partes.
 
-## 2. Experiencia aderente ao edital
+## 2. Experiência aderente ao edital
 
-O profissional possui experiencia em:
+O profissional possui experiência em:
 
 - testes de garantia de qualidade para jogos;
-- testes funcionais, de regressao e de desempenho;
-- documentacao, classificacao e reporte de bugs com clareza;
-- colaboracao com equipes de desenvolvimento para resolucao de falhas e melhoria da estabilidade.
+- testes funcionais, de regressão e de desempenho;
+- documentação, classificação e reporte de bugs com clareza;
+- colaboração com equipes de desenvolvimento para resolução de falhas e melhoria da estabilidade.
 
-## 3. Lista breve de jogos e projetos de referencia
+## 3. Lista breve de jogos e projetos de referência
 
-- `Exploradores de Avantasia` - testes funcionais, validacao em computador e mobile e acompanhamento de estabilidade.
-- `Jogo Cultural - Cultura Potiguara` - validacao de fluxo, desempenho e estabilidade em sessoes mobile e desktop.
-- `Atividades Gamificadas de Avantasia` - validacao de interacoes, feedbacks e desempenho em atividades modulares.
-- `Experiencia VR Avantasia` - validacao de desempenho e estabilidade em experiencia imersiva.
+- `Exploradores de Avantasia` - testes funcionais, validação em computador e mobile e acompanhamento de estabilidade.
+- `Jogo Cultural - Cultura Potiguara` - validação de fluxo, desempenho e estabilidade em sessões mobile e desktop.
+- `Atividades Gamificadas de Avantasia` - validação de interações, feedbacks e desempenho em atividades modulares.
+- `Experiência VR Avantasia` - validação de desempenho e estabilidade em experiência imersiva.
 
-## 4. Relacao com o portfolio da Game Mind
+## 4. Relação com o portfólio da Game Mind
 
-O portfolio textual da `Game Mind` descreve metodologias de testes manuais, testes funcionais, validacao em dispositivos fisicos, monitoramento com `Unity Profiler` e metricas consolidadas de FPS, carregamento e sessoes livres de falhas em projetos da empresa.
+O portfólio textual da `Game Mind` descreve metodologias de testes manuais, testes funcionais, validação em dispositivos físicos, monitoramento com `Unity Profiler` e métricas consolidadas de FPS, carregamento e sessões livres de falhas em projetos da empresa.
 
-Declaramos que as informacoes acima sao verdadeiras.
+Declaramos que as informações acima são verdadeiras.
 
 Natal/RN, `10` de `junho` de `2026`.
 
